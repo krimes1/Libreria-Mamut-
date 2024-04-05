@@ -17,7 +17,7 @@
 .ingresar-texto{
     text-decoration: none;
     transition: color 0.3s;
-    color: black;
+    color: black
 }
 .ingresar-texto:hover{
     color: grey;
@@ -26,14 +26,18 @@
 
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
 }
 
 .op{
     font-size: 30px;
+
     
 }
 
 .lupa{
     font-size: 18px;
+}
+
+body{
+    background-image: url(/img/background.jpg);
 }
