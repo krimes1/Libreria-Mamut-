@@ -11,7 +11,7 @@
 }
 
 .bi{
-    font-size: 40px;  
+    font-size: 40px;
 }
 
 .ingresar-texto{
@@ -31,13 +31,22 @@
 .op{
     font-size: 30px;
 
-    
+
 }
 
 .lupa{
     font-size: 18px;
 }
-
+.card{
+    margin-left: 38%;
+    margin-bottom: 30px;
+}
+.card-text{
+    text-align: center;
+}
+.btn {
+    background-color:rgb(30, 157, 98);
+}
 body{
     background-image: url(/img/background.jpg);
 }
@@ -56,12 +65,8 @@ h1 {
     margin: 2%;
     border: solid   black;
     }
-    
+
     #Subtitulo{
         background-color: gold;
-        
-    }
-    
 
-    
-    
+    }
