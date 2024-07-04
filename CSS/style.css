@@ -40,6 +40,7 @@
 .card{
     margin-left: 38%;
     margin-bottom: 30px;
+    ;
 }
 .card-text{
     text-align: center;
@@ -74,3 +75,4 @@ i {
 color: black;
 background: none;
 }
+
